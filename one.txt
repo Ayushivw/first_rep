@@ -1,1 +1,2 @@
-"my first file"
+this my my first file
+I am  learning git
